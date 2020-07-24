@@ -1,8 +1,8 @@
 package com.theleafapps.pro.roomwordssample;
 
-import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class NewWordActivity extends AppCompatActivity {
 
