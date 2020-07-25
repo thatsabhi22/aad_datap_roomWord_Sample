@@ -17,7 +17,8 @@ public class Word {
         this.mWord = word;
     }
 
-    public String getmWord() {
+    @NonNull
+    public String getWord() {
         return this.mWord;
     }
 }
